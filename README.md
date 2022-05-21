@@ -34,8 +34,13 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development.
 ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
 ![Mysql](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+**Operations**<br>
+![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible&logoColor=EE0000)
+![Docker](https://img.shields.io/badge/-Docker-333333?logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?logo=kubernetes&logoColor=326CE5)
+
 **OS & WM**<br>
-![Manjaro](https://img.shields.io/badge/-Manjaro-333333?style=flat&logo=manjaro)
+![Manjaro Linux](https://img.shields.io/badge/-Manjaro%20Linux-333333?style=flat&logo=manjaro)
 ![i3wm](https://img.shields.io/badge/-I3WM-333333?style=flat&logo=i3wm)
 ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
 
