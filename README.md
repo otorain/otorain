@@ -11,11 +11,10 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development
 ### About me
 - :thinking: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - :briefcase: &nbsp; 3+ years of experience developing with Ruby On Rails.
-- :seedling: &nbsp; I'm currently learning go and kubernetes.
+- :seedling: &nbsp; I'm currently learning Go and Kubernetes.
 
 ### :hammer_and_wrench: Tech Stack
-- :pencil2: &nbsp;
-    ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
+- :pencil2: &nbsp; ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
     ![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-333333?style=flat&logo=rubyonrails&logoColor=CC0000)
     ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
     ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
