@@ -40,4 +40,4 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development
     ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=5C2D91)
 
-<img src="https://github-readme-stats.vercel.app/api?username=otorain&show_icons=true&count_private=true&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=otorain&show_icons=true&count_private=true&show_icons=true&theme=gruvbox">
