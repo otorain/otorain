@@ -13,7 +13,7 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development
 - :briefcase: &nbsp; 3+ years of experience developing with Ruby On Rails.
 - :seedling: &nbsp; I'm currently learning Go and Kubernetes.
 
-### :hammer_and_wrench: Tech Stack
+### Tech Stack
 **Backend**<br>
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
 ![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-333333?style=flat&logo=rubyonrails&logoColor=CC0000)
