@@ -5,7 +5,7 @@
 Hi there :wave:, I'm Ian, a ruby enthusiast who does web development
 
 - [Blog](https://mini-geek.com)
-- [Email](ianlynxk@gmail.com)
+- [Email](mailto:ianlynxk@gmail.com)
 - [Twitter](https://twitter.com/ianlynxk)
 
 ### About me
