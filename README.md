@@ -47,6 +47,7 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development.
 **Development Tools**<br>
 ![RubyMine](https://img.shields.io/badge/-RubyMine-333333?style=flat&logo=jetbrains)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=019733)
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-333333?logo=windowsterminal&logoColor=4D4D4D)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 
