@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hi there :wave:, I'm Ian, a ruby enthusiast who does web development.
+Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with ror.
 
 - [Blog](https://mini-geek.com)
 - [Email](mailto:ianlynxk@gmail.com)
