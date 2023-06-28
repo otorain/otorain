@@ -23,6 +23,7 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby O
 **Frontend**<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
