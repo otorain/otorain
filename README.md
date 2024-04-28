@@ -10,8 +10,8 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby O
 
 ## About me
 - :thinking: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- :briefcase: &nbsp; 4+ years of experience developing with Ruby On Rails.
-- :seedling: &nbsp; I'm currently learning Go and Kubernetes.
+- :briefcase: &nbsp; 5+ years of experience developing with Ruby On Rails.
+- :seedling: &nbsp; I'm currently learning Python and LLM.
 
 ## Tech Stack
 **Backend**<br>
