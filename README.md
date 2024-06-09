@@ -55,5 +55,3 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby O
 <!-- <br> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=otorain&show_icons=true&count_private=true&show_icons=true&theme=radical&ver=2"> -->
 
-## Open Source Project PRs
-- [fix "Psych::BadAlias (Unknown alias: default)" in ruby 3.1.0](https://github.com/Eric-Guo/wechat/pull/309) - [[Eric-Guo/wechat]](https://github.com/Eric-Guo/wechat)
