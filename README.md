@@ -4,7 +4,6 @@
 
 Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby On Rails.
 
-- [Email](mailto:otoraink@gmail.com)
 - [Twitter](https://twitter.com/ianlynxk)
 - [Blog](https://mini-geek.com)
 
