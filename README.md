@@ -5,7 +5,7 @@
 Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby On Rails.
 
 - [Twitter](https://twitter.com/ianlynxk)
-- [Blog](https://mini-geek.com)
+- [Blog](https://movingbrick.com)
 
 ## About me
 - :thinking: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
