@@ -2,14 +2,14 @@
 
 # Introduction
 
-Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby On Rails.
+Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby on Rails.
 
 - [Twitter](https://twitter.com/ianlynxk)
 - [Blog](https://movingbrick.com)
 
 ## About me
 - :thinking: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- :briefcase: &nbsp; 6+ years of experience developing with Ruby On Rails.
+- :briefcase: &nbsp; 7+ years of experience developing with Ruby on Rails.
 - :seedling: &nbsp; I'm currently learning Python and LLM.
 
 ## Tech Stack
@@ -46,7 +46,7 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby O
 
 **Development Tools**<br>
 ![RubyMine](https://img.shields.io/badge/-RubyMine-333333?style=flat&logo=jetbrains)
-![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=019733)
+![LazyVim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=lazyvim&logoColor=2e7de9)
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-333333?logo=windowsterminal&logoColor=4D4D4D)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
