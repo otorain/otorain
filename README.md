@@ -32,7 +32,7 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby o
 **Database**<br>
 ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
 ![Mysql](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
 
 **Operations**<br>
@@ -41,7 +41,7 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby o
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible&logoColor=EE0000)
 
 **OS & WM**<br>
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat&logo=archlinux)
 ![i3wm](https://img.shields.io/badge/-I3WM-333333?style=flat&logo=i3wm)
 ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
 
