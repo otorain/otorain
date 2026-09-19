@@ -9,38 +9,39 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby o
 
 ## About me
 - :thinking: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- :briefcase: &nbsp; 7+ years of experience developing with Ruby on Rails.
-- :seedling: &nbsp; I'm currently learning Python and LLM.
+- :briefcase: &nbsp; Full-stack developer with 7+ years of experiences.
+- :seedling: &nbsp; I'm currently learning AI agent design.
 
 ## Tech Stack
 **Backend**<br>
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
 ![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-333333?style=flat&logo=rubyonrails&logoColor=CC0000)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+
 
 **Frontend**<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
 ![Next.JS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js&logoColor=000000)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=antdesign&logoColor=0170FE)
 
 **Database**<br>
 ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
 ![Mysql](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
 
 **Operations**<br>
-![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible&logoColor=EE0000)
 ![Docker](https://img.shields.io/badge/-Docker-333333?logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?logo=kubernetes&logoColor=326CE5)
+![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible&logoColor=EE0000)
 
 **OS & WM**<br>
-![Manjaro Linux](https://img.shields.io/badge/-Manjaro%20Linux-333333?style=flat&logo=manjaro)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![i3wm](https://img.shields.io/badge/-I3WM-333333?style=flat&logo=i3wm)
 ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
 
