@@ -14,10 +14,10 @@ Hi there :wave:, I'm Ian, a ruby enthusiast who does web development with Ruby o
 
 ## Tech Stack
 **Backend**<br>
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
-![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-333333?style=flat&logo=rubyonrails&logoColor=CC0000)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
+![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-333333?style=flat&logo=rubyonrails&logoColor=CC0000)
 
 
 **Frontend**<br>
